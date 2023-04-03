@@ -1,0 +1,14 @@
+Autor: Jošt Samuel
+Projekt:Databázová aplikace pro obchod 
+
+
+Nejprve je potřeba importovat databázy z exportu (export.sql). Spustíte MySQL Wokrbench, přihlásíte se přes root nebo přes vámi vytvořeného uživatele.
+Najedete na záložku server a Data Import poté si tam vyberete soubor který chcete importovat, v našem případě je to export.sql a dáte satrt import.
+
+V souboru 'config.json' je potřeba vyplnit údaje o vaší databázy ke které se má aplikace připojit.
+Je potřeba tam zadat "jméno uživatele", "heslo k databázy", "hosta(defaulne: localhost)", "port pro připojení", "jméno databáze" 
+
+Dále je potřeba jakýkoliv program který dokáže číst kod pro programovací jazyk python. (Doporučuji "visual studio code" v něm byl program napsán, takže knihovny budou kompatibylní)
+
+Pro vložení, odebrání, nebo úpravu dat je třeba kod upravit podle toho jaký záznam chcete vložit, smazat nebo upravit,
+poté už lze kod spustit v záložce RUN kliknete na RUN"main" nebo klávesovou zkratnou " shift+F10 " 
