@@ -1,0 +1,35 @@
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.csproj.AssemblyReference.cache
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.CategoryForm.resources
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.csproj.GenerateResource.cache
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\bin\Debug\Managment_System.exe.config
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\bin\Debug\Managment_System.exe
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\bin\Debug\Managment_System.pdb
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\bin\Debug\Guna.UI2.dll
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.csproj.CopyComplete
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.exe
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.pdb
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.LoginForm.resources
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.ProductForm.resources
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.SellerForm.resources
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.SellingForm.resources
+C:\Users\SAM J\source\repos\Managment_System\Managment_System\obj\Debug\Managment_System.SpalshForm.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.csproj.AssemblyReference.cache
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.CategoryForm.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.LoginForm.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.ProductForm.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.Properties.Resources.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.SellerForm.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.SellingForm.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.SpalshForm.resources
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.csproj.GenerateResource.cache
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.csproj.CoreCompileInputs.cache
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.exe
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.pdb
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\bin\Debug\Managment_System.exe.config
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\bin\Debug\Managment_System.exe
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\bin\Debug\Managment_System.pdb
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\bin\Debug\Guna.UI2.dll
+C:\Users\SAM-PC\OneDrive\Plocha\OMEGA\Shop\Managment_System\obj\Debug\Managment_System.csproj.CopyComplete
